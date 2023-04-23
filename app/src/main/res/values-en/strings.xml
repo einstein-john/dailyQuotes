@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dailyQuotes</string>
+    <string name="name">— Albert Einstein</string>
+    <string name="quote">We cannot solve problems with the kind of thinking we employed when we came up with them.</string>
+    <string name="letter">A</string>
+    <string name="qMarks">\"</string>
+</resources>
